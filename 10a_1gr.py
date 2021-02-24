@@ -3,7 +3,7 @@ print(5+6)
 1 Arhipenko Sofja
 
 2 Berga Laura
-
+print(2*3)
 3 Fiïimonovs Eldars
 
 4 Gaiðute Ksenija
